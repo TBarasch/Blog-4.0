@@ -1,9 +1,9 @@
 ---
-title: Minimal Text
+title: blog 4.0
 baseurl: "/Minimal-Text"
 desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+about: My 4th attemp at creating the second blog for the MDS
+image: https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/70186327_10157403921631101_9120830809354272768_n.jpg?_nc_cat=104&_nc_oc=AQlgwtLm0mOrz3A6QgvNBvRcCT9IXnkHd6l2EAQ6jHanoiXSQEqxAX-2YhIdHIHPYk0&_nc_ht=scontent-sea1-1.xx&oh=6c5f76816c0fabdce38c6d26599e2379&oe=5E36F1A8
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
